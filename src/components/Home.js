@@ -13,7 +13,7 @@ const Home = () => (
                 <h1>Task Quest</h1>
                 <div className="play-button-container">
                     <ul>
-                        <li><Link className="play-button" to="/play/instructions">Play</Link></li>
+                        <li><Link className="play-button" to="/play/instructions">Play Game</Link></li>
                     </ul>
                 </div>
             </section>
