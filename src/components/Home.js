@@ -16,10 +16,6 @@ const Home = () => (
                         <li><Link className="play-button" to="/play/instructions">Play</Link></li>
                     </ul>
                 </div>
-                <div className="auth-container">
-                    <Link to="/login" className="auth-buttons" id="login-button">World Map</Link>
-                    <Link to="/register" className="auth-buttons" id="signup-button">Homepage</Link>
-                </div>
             </section>
         </div>
     </Fragment>
